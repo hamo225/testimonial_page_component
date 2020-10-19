@@ -1,1 +1,0 @@
-# testimonial_page_component
